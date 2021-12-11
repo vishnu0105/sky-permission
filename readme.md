@@ -10,7 +10,7 @@ This is a small package to easy and simplify your code.
 ## Installation Process
 
 ```
-composer require skycoder/laravel-filesaver
+composer require skycoder/laravel-filesaver save
 ```
 
 
